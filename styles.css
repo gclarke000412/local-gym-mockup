@@ -1,0 +1,47 @@
+.navbar-brand{
+    padding-left: 1.5rem;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+.sign-out{
+    text-align: center;
+}
+
+#sign-in{
+    width: 40%;
+}
+
+h2{
+    padding: 2rem 0;
+}
+
+form{
+    padding: 2rem 1.5rem;
+}
+
+#sign-in-button{
+    margin-top: 1rem;
+}
+
+footer{
+    text-align: center;
+    padding: 2rem 0 1rem;
+    background-color: rgb(27, 27, 27); 
+    color: white;
+}
+
+.container{
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.about-top{
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.logo{
+    font-family: 'Bruno Ace SC', cursive;
+    padding-bottom: 1.5rem;
+}
